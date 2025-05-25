@@ -1,0 +1,14 @@
+C:\RepOS\ProjetTest\bin\Debug\net9.0\ProjetTest.exe
+C:\RepOS\ProjetTest\bin\Debug\net9.0\ProjetTest.deps.json
+C:\RepOS\ProjetTest\bin\Debug\net9.0\ProjetTest.runtimeconfig.json
+C:\RepOS\ProjetTest\bin\Debug\net9.0\ProjetTest.dll
+C:\RepOS\ProjetTest\bin\Debug\net9.0\ProjetTest.pdb
+C:\RepOS\ProjetTest\obj\Debug\net9.0\ProjetTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\RepOS\ProjetTest\obj\Debug\net9.0\ProjetTest.AssemblyInfoInputs.cache
+C:\RepOS\ProjetTest\obj\Debug\net9.0\ProjetTest.AssemblyInfo.cs
+C:\RepOS\ProjetTest\obj\Debug\net9.0\ProjetTest.csproj.CoreCompileInputs.cache
+C:\RepOS\ProjetTest\obj\Debug\net9.0\ProjetTest.dll
+C:\RepOS\ProjetTest\obj\Debug\net9.0\refint\ProjetTest.dll
+C:\RepOS\ProjetTest\obj\Debug\net9.0\ProjetTest.pdb
+C:\RepOS\ProjetTest\obj\Debug\net9.0\ProjetTest.genruntimeconfig.cache
+C:\RepOS\ProjetTest\obj\Debug\net9.0\ref\ProjetTest.dll
