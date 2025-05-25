@@ -12,3 +12,4 @@ C:\RepOS\ProjetTest\obj\Debug\net9.0\refint\ProjetTest.dll
 C:\RepOS\ProjetTest\obj\Debug\net9.0\ProjetTest.pdb
 C:\RepOS\ProjetTest\obj\Debug\net9.0\ProjetTest.genruntimeconfig.cache
 C:\RepOS\ProjetTest\obj\Debug\net9.0\ref\ProjetTest.dll
+C:\RepOS\ProjetTest\obj\Debug\net9.0\ProjetTest.sourcelink.json
