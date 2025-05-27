@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\RepOS\\ProjetTest\\ProjetTest.csproj": {}
+    "C:\\repos\\ProjetTest\\ProjetTest.csproj": {}
   },
   "projects": {
-    "C:\\RepOS\\ProjetTest\\ProjetTest.csproj": {
+    "C:\\repos\\ProjetTest\\ProjetTest.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\RepOS\\ProjetTest\\ProjetTest.csproj",
+        "projectUniqueName": "C:\\repos\\ProjetTest\\ProjetTest.csproj",
         "projectName": "ProjetTest",
-        "projectPath": "C:\\RepOS\\ProjetTest\\ProjetTest.csproj",
+        "projectPath": "C:\\repos\\ProjetTest\\ProjetTest.csproj",
         "packagesPath": "C:\\Users\\Aymen T\\.nuget\\packages\\",
-        "outputPath": "C:\\RepOS\\ProjetTest\\obj\\",
+        "outputPath": "C:\\repos\\ProjetTest\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
